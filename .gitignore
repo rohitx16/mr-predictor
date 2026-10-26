@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+model_cache/
+data_cache/
+*_predicted.xlsx
+*_predicted.csv
+~$*.xlsx
+.claude/
+Mr Data.xlsx
